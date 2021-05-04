@@ -5,8 +5,8 @@ Sinergia:Me gusto este tema porque nos muestra como es que todo un equipo puede 
 ### codigo de cita
 `crear un programa main.cpp`  
 ### Mencion
-@MigueMat4 
-### lista
+@MigueMat4
+### Lista
 1. Primer paso
    - Segundo paso
      - Tercer paso
