@@ -17,5 +17,6 @@ int main()
     getline(cin, texto);
     cout << texto;
     // Comience a programar desde aquí
+    // no se me ocurrio nada
     return 0;
 }
